@@ -2,15 +2,9 @@
 
 出售新西兰 美国 英国实体 SIM 卡 GV：https://github.com/ssnhd/sim
 
-## 官网和 App
-
-- 官网：https://one.nz/prepay
-- App Store：https://apps.apple.com/app/id370880990
-- Google Play：https://play.google.com/store/apps/details?id=nz.co.vodafone.android.myaccount&hl=en_US
-
 ## 插卡
 
-收到后插卡等待几分钟，出现信号显示移动或联通，然后会收到一条官方欢迎短信，即可使用。
+收到后插卡等待几分钟，出现信号显示移动或联通，然后会收到一条官方欢迎短信。
 
 ## 本机号码
 包装上有，数字 021 开头的一串数字，日常使用去掉号码前面的 0，新西兰区号 +64。
@@ -24,6 +18,37 @@
 苹果手机：设置 -> 蜂窝网络 -> 选择这张手机卡 -> 打开无线局域网通话（或 WLAN 通话）。开启成功后，信号处能看到运营商的名称变成 Wi-Fi 通话。
 
 安卓手机：部分机型支持，和苹果的步骤类似。
+
+## 激活 one NZ
+
+1. 浏览器打开 https://one.nz/selfservice/verification/#/msisdn-verification/prepay-activation （注：如果网页只能看到输入框，看不到任何英文，请先将你的设备系统切换为英文）
+2. 输入 021 开头的手机号码并发短信验证
+3. 验证完，点击【Let's go!】
+4. 点击【Check out Pay & Go casual rotes】（注：一定不要点 Get this plan）
+5. 点击【Get this plan】
+6. 点击【Done】
+7. 再点击以后再充值【I'll top up later】,激活后有效期随机，每张卡不一样，从几个月到几年不等，不需要立即充值
+
+## 注册 one NZ
+
+注册账号后，可以查看余额、有效期等信息。
+
+- 官网：https://one.nz/prepay
+- App Store：https://apps.apple.com/app/id370880990
+- Google Play：https://play.google.com/store/apps/details?id=nz.co.vodafone.android.myaccount&hl=en_US
+
+以 App 为例：
+1. 打开 App 后点击【Register】
+2. 输入邮箱、密码、姓名，勾选同意书，点击【Register】
+3. 查看邮箱里的邮件，点击【Confirm email】确认
+4. App 里点击【Add a service】
+5. 点击【Personal】
+6. 点击【Prepay Mobile】
+7. 输入你 021 开头的手机号码，点击【Next】
+8. 输入短信收到的验证码，勾选同意，点击【Add service】
+    注：如果出现错误 “Oops, something went wrong...”，只要报错就说明是 IP 问题，多换几个节点测试。
+9. 绑定完成，可以查看有效期（请务必在有效期前充值保号）
+
 
 ## 资费
 
@@ -52,7 +77,7 @@ One NZ 支持[国外漫游](https://one.nz/mobile-services/data-angel-overseas/)
 
 ## eSIM
 
-[官方指引](https://one.nz/mobile/plan-builder/prepay/)
+官方指引：https://one.nz/mobile/plan-builder/prepay/
 
 
 友情提示：请遵守当地法律法规，禁止用于违法犯罪行为，否则后果自负。
