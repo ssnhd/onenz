@@ -1,11 +1,29 @@
 # 新西兰实体卡 One NZ 激活使用教程
 
-购买：https://t.me/GVStore
+出售新西兰 美国 英国实体 SIM 卡 GV：https://github.com/ssnhd/sim
 
-## 官网
+## 官网和 App
 
-官网：[https://one.nz/prepay](https://one.nz/prepay)
-App：[App Store](https://apps.apple.com/app/id370880990)、[Google Play](https://play.google.com/store/apps/details?id=nz.co.vodafone.android.myaccount&hl=en_US)
+- 官网：https://one.nz/prepay
+- App Store：https://apps.apple.com/app/id370880990
+- Google Play：https://play.google.com/store/apps/details?id=nz.co.vodafone.android.myaccount&hl=en_US
+
+## 插卡
+
+收到后插卡等待几分钟，出现信号显示移动或联通，然后会收到一条官方欢迎短信，即可使用。
+
+## 本机号码
+包装上有，数字 021 开头的一串数字，日常使用去掉号码前面的 0，新西兰区号 +64。
+
+也可以编辑短信 mynum 发送至 521 查询本机号码。
+
+## Wi-Fi Calling
+
+如果手机有 Wi-Fi 通话功能，建议打开，收短信验证码更稳定。
+
+苹果手机：设置 -> 蜂窝网络 -> 选择这张手机卡 -> 打开无线局域网通话（或 WLAN 通话）。开启成功后，信号处能看到运营商的名称变成 Wi-Fi 通话。
+
+安卓手机：部分机型支持，和苹果的步骤类似。
 
 ## 资费
 
