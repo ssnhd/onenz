@@ -21,13 +21,12 @@
 
 ## 激活 one NZ
 
-1. 浏览器打开 https://one.nz/selfservice/verification/#/msisdn-verification/prepay-activation （注：如果网页只能看到输入框，看不到任何英文，请先将你的设备系统切换为英文）
-2. 输入 021 开头的手机号码并发短信验证
-3. 验证完，点击【Let's go!】
-4. 点击【Check out Pay & Go casual rotes】（注：一定不要点 Get this plan）
+1. IP 越干净越好，浏览器打开 https://one.nz/selfservice/verification/#/msisdn-verification/prepay-activation （注：如果网页只能看到输入框，看不到任何英文，请先将你的设备系统切换为英文）
+2. 输入 021 开头的手机号码并短信验证，验证完点击【Verifying…】
+3. 点击【Let's Go】
+4. 网页下拉至底部，点击【Check out Pay & Go casual rotes】（注：一定不要点 Get this plan）
 5. 点击【Get this plan】
-6. 点击【Done】
-7. 再点击以后再充值【I'll top up later】,激活后有效期随机，每张卡不一样，从几个月到几年不等，不需要立即充值
+6. 此处显示绑定信用卡充值，可以不绑定，点击【I'll top up later】，显示「Your Pay & Go plan is active」表示已激活
 
 ## 注册 one NZ
 
@@ -41,13 +40,11 @@
 1. 打开 App 后点击【Register】
 2. 输入邮箱、密码、姓名，勾选同意书，点击【Register】
 3. 查看邮箱里的邮件，点击【Confirm email】确认
-4. App 里点击【Add a service】
-5. 点击【Personal】
-6. 点击【Prepay Mobile】
-7. 输入你 021 开头的手机号码，点击【Next】
-8. 输入短信收到的验证码，勾选同意，点击【Add service】
+4. App 里点击【Add a service】→【Personal】→【Prepay Mobile】
+5. 输入你 021 开头的手机号码，点击【Next】
+6. 输入短信收到的验证码，勾选同意，点击【Add service】
     注：如果出现错误 “Oops, something went wrong...”，只要报错就说明是 IP 问题，多换几个节点测试。
-9. 绑定完成，可以查看有效期（请务必在有效期前充值保号）
+7. 绑定完成，可以查看有效期（请务必在有效期前充值保号）
 
 
 ## 资费
