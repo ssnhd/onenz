@@ -22,7 +22,7 @@
 ## 激活 one NZ
 
 1. IP 越干净越好，浏览器打开 https://one.nz/selfservice/verification/#/msisdn-verification/prepay-activation （注：如果网页只能看到输入框，看不到任何英文，请先将你的设备系统切换为英文）
-2. 输入 021 开头的手机号码并短信验证，验证完点击【Verifying…】
+2. 输入 021 开头的手机号码并短信验证，验证完点击【Verifying…】（注：如果出现「You've already selected your Prepay plan」表示已激活，无需再重复激活）
 3. 点击【Let's Go】
 4. 网页下拉至底部，点击【Check out Pay & Go casual rotes】（注：一定不要点 Get this plan）
 5. 点击【Get this plan】
